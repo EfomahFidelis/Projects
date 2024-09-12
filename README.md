@@ -20,23 +20,55 @@ Key Skills:
 <ol>
   <li>Data Analysis Project</li>
   <li>Data Science Project</li>
-  <li>AI/ML Project</li>
+  <li><a href=id="AI_MLid">AI / ML Project</a></li>
   <li>Education</li>
   <li>Certification</li>
   <li>Contact</li>
 </ol>
 
+### <h3> Data Analysis Project</h3><hr>
 
-* ## AI / ML Project
-### [Pre-trained Image Classifier for Dog Breed Identification](https://github.com/EfomahFidelis/Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/edit/main/README.md)
-<strong>AI Programming with Python (Udacity Course, AWS-sponsored Nanodegree)</strong> <br> Developed an efficient image classification application to identify dog breeds using pre-trained Convolutional Neural Networks (CNNs). Implemented and compared multiple CNN architectures (AlexNet, VGG, ResNet) to optimize accuracy.
 
-<strong>Technology:</strong>
-  * Python
-  * Pre-trained CNNs (AlexNet, VGG, ResNet)
 
-<b>Results:</b>
-  * Successfully developed an efficient image classification application for dog breed identification
-  * Optimized dog breed identification accuracy by comparing multiple CNN architectures
-  * Demonstrated proficiency in working with deep learning models and transfer learning techniques
-  * Gained hands-on experience with real-world AI application development and best practices in AI engineering
+### <h3> Data Science Project</h3><hr>
+
+
+
+### <h3 id="AI_MLid">AI / ML Project</h3><hr>
+<ul>
+  <li><h4>Pre-trained Image Classifier for Dog Breed Identification</h4>[link](https://github.com/EfomahFidelis/Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/edit/main/README.md)<br>
+  <strong>AI Programming with Python (Udacity Course, AWS-sponsored Nanodegree)</strong> <br> 
+    <p>
+      Developed an efficient image classification application to identify dog breeds using pre-trained Convolutional Neural Networks (CNNs). Implemented and compared multiple   CNN architectures (AlexNet, VGG, ResNet) to optimize accuracy.
+    </p>
+  <strong>Technology:</strong>
+      <ul>
+        <li>Python</li>
+        <li>Pre-trained CNNs (AlexNet, VGG, ResNet)</li>
+      </ul>
+  <strong>Results:</strong>
+      <ul>
+        <li>Successfully developed an efficient image classification application for dog breed identification</li>
+        <li>Optimized dog breed identification accuracy by comparing multiple CNN architectures</li>
+        <li>Demonstrated proficiency in working with deep learning models and transfer learning techniques</li>
+        <li>Gained hands-on experience with real-world AI application development and best practices in AI engineering</li>
+    </ul>
+  </li>
+  <li></li>
+  <li></li>
+</ul>
+
+
+
+
+
+### <h3> Certification</h3><hr>
+
+
+
+
+
+### <h3> Contact</h3><hr>
+
+
+
