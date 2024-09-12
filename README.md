@@ -20,7 +20,7 @@ Key Skills:
 <ol>
   <li>Data Analysis Project</li>
   <li>Data Science Project</li>
-  <li><a href="AI_MLid">AI / ML Project</a></li>
+  <li><a href="#AI_MLid">AI / ML Project</a></li>
   <li>Education</li>
   <li>Certification</li>
   <li>Contact</li>
