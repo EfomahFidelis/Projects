@@ -18,19 +18,19 @@ Key Skills:
   
 <h2>Contents</h2>
 <ol>
-  <li>Data Analysis Project</li>
-  <li>Data Science Project</li>
+  <li><a href="#DAid">Data Analysis Project</a></li>
+  <li><a href="#DSid">Data Science Project</a></li>
   <li><a href="#AI_MLid">AI / ML Project</a></li>
-  <li>Education</li>
-  <li>Certification</li>
-  <li>Contact</li>
+  <li><a href="#Eduid">Education</a></li>
+  <li><a href="#Certid">Certification</a></li>
+  <li><a href="#Contactid">Contact</a></li>
 </ol>
 
-### <h3> Data Analysis Project</h3><hr>
+### <h3 id="DAid"> Data Analysis Project</h3><hr>
 
 
 
-### <h3> Data Science Project</h3><hr>
+### <h3 id="DSid"> Data Science Project</h3><hr>
 
 
 
@@ -59,16 +59,13 @@ Key Skills:
 </ul>
 
 
+### <h3 id="Eduid"> Education</h3><hr>
 
 
-
-### <h3> Certification</h3><hr>
-
+### <h3 id="Certid"> Certification</h3><hr>
 
 
-
-
-### <h3> Contact</h3><hr>
+### <h3 id="Contactid"> Contact</h3><hr>
 
 
 
