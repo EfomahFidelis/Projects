@@ -26,21 +26,18 @@ Key Skills:
   <li><a href="#Contactid">Contact</a></li>
 </ol>
 
-### <h3 id="DAid"> Data Analysis Project</h3><hr>
+## <h2 id="DAid"> Data Analysis Project</h2>
 
 
 
-### <h3 id="DSid"> Data Science Project</h3><hr>
+## <h2 id="DSid"> Data Science Project</h2>
 
 
 
-### <h3 id="AI_MLid">AI / ML Project</h3><hr>
-<ul>
-  <li><h4>Pre-trained Image Classifier for Dog Breed Identification</h4>[link](https://github.com/EfomahFidelis/Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/edit/main/README.md)<br>
-  <strong>AI Programming with Python (Udacity Course, AWS-sponsored Nanodegree)</strong> <br> 
-    <p>
-      Developed an efficient image classification application to identify dog breeds using pre-trained Convolutional Neural Networks (CNNs). Implemented and compared multiple   CNN architectures (AlexNet, VGG, ResNet) to optimize accuracy.
-    </p>
+## <h2 id="AI_MLid">AI / ML Project</h2>
+### [Pre-trained Image Classifier for Dog Breed Identification](https://github.com/EfomahFidelis/Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/edit/main/README.md)<br>
+  <strong>AI Programming with Python (Udacity Course, AWS-sponsored Nanodegree)</strong></br>
+      Developed an efficient image classification application to identify dog breeds using pre-trained Convolutional Neural Networks (CNNs). Implemented and compared multiple   CNN architectures (AlexNet, VGG, ResNet) to optimize accuracy.</br>
   <strong>Technology:</strong>
       <ul>
         <li>Python</li>
@@ -53,19 +50,23 @@ Key Skills:
         <li>Demonstrated proficiency in working with deep learning models and transfer learning techniques</li>
         <li>Gained hands-on experience with real-world AI application development and best practices in AI engineering</li>
     </ul>
-  </li>
-  <li></li>
-  <li></li>
-</ul>
 
 
-### <h3 id="Eduid"> Education</h3><hr>
 
 
-### <h3 id="Certid"> Certification</h3><hr>
+## <h3 id="Eduid"> Education</h3>
+  * Yaba College of Technology; HND - Accountancy (2010)
+  * Lagos City Computer College; Diploma - Computer Science (2002)
 
+## <h3 id="Certid"> Certification</h3>
+  * [IBM Certified Professional Architect v6 PLUS IBM Cloud for Financial Services v2](https://drive.google.com/file/d/1Rb2TXeOf78jUHjP6Nn0u_V1dAW0BBtlt/view?usp=sharing) (JUN. 2024)
+  * [IBM Cloud for Financial Services v2 Specialty](https://drive.google.com/file/d/1HkGvYyjO536ydv5thbiEmPebWCyFiRri/view?usp=sharing) (JUN. 2024)
+  * [IBM Certified Professional Architect - Cloud v6](https://drive.google.com/file/d/1e-2s-4Ceox8jeaMF7gXSJjQhEMctlqao/view?usp=sharing) (Feb. 2024)
+  * [Certified Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://drive.google.com/file/d/1UMTr5muVf8hDNYn6e8cKnF61WHO0sR2N/view?usp=sharing) (OCT. 2023)
+  * [IBM Certified Technical Advocate v4](https://drive.google.com/file/d/17e5x89QKsVM06EXJ9HZaYtwkmQSVmHEJ/view?usp=sharing) (SEP. 2023)
+  * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (SEP. 2023)
 
-### <h3 id="Contactid"> Contact</h3><hr>
+## <h3 id="Contactid"> Contact</h3>
 
 
 
