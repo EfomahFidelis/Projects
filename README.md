@@ -4,6 +4,7 @@
 
 <h3>About</h3>
 Skilled data professional with over a decade of experience in extracting valuable insights from complex datasets, crafting insightful reports, and developing data-driven solutions that drive business growth. Proficient in data analysis, visualization, and science, with expertise spanning:
+
 * Financial analysis and operational optimization
 *  intelligence and data reporting
 * Cloud computing and architecture (AWS, IBM, Oracle)
@@ -67,6 +68,9 @@ Key Skills:
   * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (SEP. 2023)
 
 ## <h3 id="Contactid"> Contact</h3>
+  * LinkedIn: [@efimahfidelis](www.linkedin.com/in/efomahfidelis)
+  * Credly: [@efomahfidelis](https://www.credly.com/users/efomahfidelis)
+  * Email: [efomahfidelis@gmail.com](efomahfidelis@gmail.com)
 
 
 
