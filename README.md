@@ -68,9 +68,9 @@ Key Skills:
   * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (SEP. 2023)
 
 ## <h3 id="Contactid"> Contact</h3>
-  * LinkedIn: [@efimahfidelis](www.linkedin.com/in/efomahfidelis)
+  * LinkedIn: [@efimahfidelis](https://www.linkedin.com/in/efomahfidelis)
   * Credly: [@efomahfidelis](https://www.credly.com/users/efomahfidelis)
-  * Email: [efomahfidelis@gmail.com](efomahfidelis@gmail.com)
+  * Email: [efomahfidelis@gmail.com](mailto:efomahfidelis@gmail.com)
 
 
 
