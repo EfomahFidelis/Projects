@@ -16,7 +16,7 @@ Key Skills:
 * Machine Learning
 * Cloud Architecture & Solutions
 * Process Automation & Improvement
-  
+
 <h2>Contents</h2>
 <ol>
   <li><a href="#DAid">Data Analysis Project</a></li>
@@ -55,11 +55,11 @@ Key Skills:
 
 
 
-## <h3 id="Eduid"> Education</h3>
+## <h2 id="Eduid"> Education</h2>
   * Yaba College of Technology; HND - Accountancy (2010)
   * Lagos City Computer College; Diploma - Computer Science (2002)
 
-## <h3 id="Certid"> Certification</h3>
+## <h2 id="Certid"> Certification</h2>
   * [IBM Certified Professional Architect v6 PLUS IBM Cloud for Financial Services v2](https://drive.google.com/file/d/1Rb2TXeOf78jUHjP6Nn0u_V1dAW0BBtlt/view?usp=sharing) (JUN. 2024)
   * [IBM Cloud for Financial Services v2 Specialty](https://drive.google.com/file/d/1HkGvYyjO536ydv5thbiEmPebWCyFiRri/view?usp=sharing) (JUN. 2024)
   * [IBM Certified Professional Architect - Cloud v6](https://drive.google.com/file/d/1e-2s-4Ceox8jeaMF7gXSJjQhEMctlqao/view?usp=sharing) (Feb. 2024)
@@ -67,10 +67,9 @@ Key Skills:
   * [IBM Certified Technical Advocate v4](https://drive.google.com/file/d/17e5x89QKsVM06EXJ9HZaYtwkmQSVmHEJ/view?usp=sharing) (SEP. 2023)
   * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (SEP. 2023)
 
-## <h3 id="Contactid"> Contact</h3>
+## <h2 id="Contactid"> Contact</h2>
+  * LinkedIn: [@efimahfidelis](www.linkedin.com/in/efomahfidelis)
   * LinkedIn: [@efimahfidelis](https://www.linkedin.com/in/efomahfidelis)
   * Credly: [@efomahfidelis](https://www.credly.com/users/efomahfidelis)
+  * Email: [efomahfidelis@gmail.com](efomahfidelis@gmail.com)
   * Email: [efomahfidelis@gmail.com](mailto:efomahfidelis@gmail.com)
-
-
-
