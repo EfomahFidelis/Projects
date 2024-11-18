@@ -114,7 +114,7 @@ The final model, a DecisionTreeRegressor, achieved an MSE of 2.5036, outperformi
   * Facebook: [@FidelisEfomah](https://web.facebook.com/FidelisEfomah)
 
 <strong>Email:</strong>
-  * GMail: [efomahfidelis@gmail.com](efomahfidelis@gmail.com)
+  * GMail: [efomahfidelis@gmail.com](mailto:efomahfidelis@gmail.com)
   * Outlook Email: [efomahfidelis@outlook.com](mailto:efomahfidelis@outlook.com)
 
 <strong>Telephone:</strong>
