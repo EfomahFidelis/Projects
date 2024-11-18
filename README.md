@@ -106,8 +106,8 @@ The final model, a DecisionTreeRegressor, achieved an MSE of 2.5036, outperformi
 
 ## <h2 id="Contactid"> Contact</h2>
 <strong>Social platform:</strong>
-  * GitHub: [@efomahfidelis](www.github.com/EfomahFidelis)
-  * LinkedIn: [@efomahfidelis](www.linkedin.com/in/efomahfidelis)
+  * GitHub: [@efomahfidelis](https://www.github.com/EfomahFidelis)
+  * LinkedIn: [@efomahfidelis](https://www.linkedin.com/in/efomahfidelis)
   * Credly: [@efomahfidelis](https://www.credly.com/users/efomahfidelis)
   * Kaggle: [@efomahfidelis](https://www.kaggle.com/efomahfidelis)
   * X (formerly Twitter): [@FidelisEfomah](https://www.x.com/FidelisEfomah)
