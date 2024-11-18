@@ -105,8 +105,19 @@ The final model, a DecisionTreeRegressor, achieved an MSE of 2.5036, outperformi
   * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (SEP. 2023)
 
 ## <h2 id="Contactid"> Contact</h2>
-  * LinkedIn: [@efimahfidelis](www.linkedin.com/in/efomahfidelis)
-  * LinkedIn: [@efimahfidelis](https://www.linkedin.com/in/efomahfidelis)
+<strong>Social platform:</strong>
+  * GitHub: [@efomahfidelis](www.github.com/EfomahFidelis)
+  * LinkedIn: [@efomahfidelis](www.linkedin.com/in/efomahfidelis)
   * Credly: [@efomahfidelis](https://www.credly.com/users/efomahfidelis)
-  * Email: [efomahfidelis@gmail.com](efomahfidelis@gmail.com)
-  * Email: [efomahfidelis@gmail.com](mailto:efomahfidelis@gmail.com)
+  * Kaggle: [@efomahfidelis](https://www.kaggle.com/efomahfidelis)
+  * X (formerly Twitter): [@FidelisEfomah](https://www.x.com/FidelisEfomah)
+  * Facebook: [@FidelisEfomah](https://web.facebook.com/FidelisEfomah)
+
+<strong>Email:</strong>
+  * GMail: [efomahfidelis@gmail.com](efomahfidelis@gmail.com)
+  * Outlook Email: [efomahfidelis@outlook.com](mailto:efomahfidelis@outlook.com)
+
+<strong>Telephone:</strong>
+  * Mobile (D/L): +2347049713910
+  * Mobile: +2348182761073
+
