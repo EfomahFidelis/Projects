@@ -34,11 +34,8 @@ Key Skills:
 ## <h2 id="DSid"> Data Science Project</h2>
 
 ### [Predicting Movie Rental Durations](https://github.com/EfomahFidelis/Predicting-Movie-Rental-Durations/blob/main/Predict_movie_rental_durations.ipynb)<br>
-<strong>This project was completed in partial fulfillment of my ongoing pursuit of the <bold>Associate Data Scientist in Python</bold> certification by 
-<a href="https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python">DataCamp</a></strong><br>
-
 <strong>Introduction:</strong><br>
-In this project, I built regression models to predict the number of days a customer is likely to rent a DVD based on specific customer and movie features. The dataset was provided by <a href="https://app.datacamp.com/">DataCamp</a> as part of the project instructions. The rental company sought to improve their inventory planning and operational efficiency using predictive analytics, with a key performance goal of achieving a Mean Squared Error (MSE) of 3 or less on the test set.
+In this project, I built regression models to predict the number of days a customer is likely to rent a DVD based on specific customer and movie features. The rental company sought to improve their inventory planning and operational efficiency using predictive analytics, with a key performance goal of achieving a Mean Squared Error (MSE) of 3 or less on the test set.
 
 During this analysis, I performed extensive data exploration, including visualizations and statistical analysis, to uncover critical insights. For example:  
 - **Correlation Heatmap Analysis**: Revealed relationships between numerical features, aiding feature selection and reducing multicollinearity.  
