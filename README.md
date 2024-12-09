@@ -65,7 +65,7 @@
   * GitHub: [@efomahfidelis](https://www.github.com/EfomahFidelis)
   * LinkedIn: [@efomahfidelis](https://www.linkedin.com/in/efomahfidelis)
   * Credly: [@efomahfidelis](https://www.credly.com/users/efomahfidelis)
-  * Kaggle: [@efomahfidelis](https://www.kaggle.com/efomahfidelis)
+  * Kaggle: [@efomahfidelis](https://www.kaggle.com/fidelisefomah)
   * X (formerly Twitter): [@FidelisEfomah](https://www.x.com/FidelisEfomah)
   * Facebook: [@FidelisEfomah](https://web.facebook.com/FidelisEfomah)
 
