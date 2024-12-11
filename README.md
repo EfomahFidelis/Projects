@@ -38,7 +38,7 @@
 
 <ul>
   <li><a href="https://github.com/EfomahFidelis/Predicting-Movie-Rental-Durations/tree/main">Predicting Movie Rental Durations</a></li>
-  <li><a href="https://github.com/EfomahFidelis/Titanic-Machine-Learning-from-Disaster/blob/main/README.md">Titanic - Machine Learning from Disaster</a></li>
+  <li><a href="https://github.com/EfomahFidelis/Titanic-Disaster/blob/main/README.md">Titanic - Machine Learning from Disaster</a></li>
 </ul>
 
 ## <h2 id="AI_MLid">AI / ML Project</h2>
