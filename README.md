@@ -38,13 +38,14 @@
 
 <ul>
   <li><a href="https://github.com/EfomahFidelis/Predicting-Movie-Rental-Durations/tree/main">Predicting Movie Rental Durations</a></li>
-  <li><a href="https://github.com/EfomahFidelis/Titanic-Disaster/blob/main/README.md">Titanic - Machine Learning from Disaster</a></li>
+  <li><a href="https://github.com/EfomahFidelis/Housing-Price-Prediction">Housing Price Prediction</a></li>
 </ul>
 
 ## <h2 id="AI_MLid">AI / ML Project</h2>
 
 <ul>
   <li><a href="https://github.com/EfomahFidelis/Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/tree/main">Pre-trained Image Classifier for Dog Breed Identification</a></li>
+  <li><a href="https://github.com/EfomahFidelis/Titanic-Disaster/blob/main/README.md">Titanic - Machine Learning from Disaster</a></li>
 </ul>
 
 ## <h2 id="Eduid">Education</h2>
