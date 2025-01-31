@@ -26,6 +26,7 @@
   <li><a href="#DAid">Data Analysis Project</a></li>
   <li><a href="#DSid">Data Science Project</a></li>
   <li><a href="#AI_MLid">AI / ML Project</a></li>
+  <li><a href="#software_dev">Software Development Project</a></li>
   <li><a href="#Eduid">Education</a></li>
   <li><a href="#Certid">Certification</a></li>
   <li><a href="#Contactid">Contact</a></li>
@@ -48,18 +49,20 @@
   <li><a href="https://github.com/EfomahFidelis/Titanic-Disaster/blob/main/README.md">Titanic - Machine Learning from Disaster</a></li>
 </ul>
 
+## <h2 id="software_dev">Software Development Project</h2>
+
 ## <h2 id="Eduid">Education</h2>
 
-* Yaba College of Technology; HND - Accountancy (2010)
-* Lagos City Computer College; Diploma - Computer Science (2002)
+* Yaba College of Technology; HND - Accountancy
+* Lagos City Computer College; Diploma - Computer Science
 
 ## <h2 id="Certid"> Certification</h2>
-  * [IBM Certified Professional Architect v6 PLUS IBM Cloud for Financial Services v2](https://drive.google.com/file/d/1Rb2TXeOf78jUHjP6Nn0u_V1dAW0BBtlt/view?usp=sharing) (JUN. 2024)
-  * [IBM Cloud for Financial Services v2 Specialty](https://drive.google.com/file/d/1HkGvYyjO536ydv5thbiEmPebWCyFiRri/view?usp=sharing) (JUN. 2024)
+  * [IBM Certified Professional Architect v6 PLUS IBM Cloud for Financial Services v2](https://drive.google.com/file/d/1Rb2TXeOf78jUHjP6Nn0u_V1dAW0BBtlt/view?usp=sharing) (Jun. 2024)
+  * [IBM Cloud for Financial Services v2 Specialty](https://drive.google.com/file/d/1HkGvYyjO536ydv5thbiEmPebWCyFiRri/view?usp=sharing) (Jun. 2024)
   * [IBM Certified Professional Architect - Cloud v6](https://drive.google.com/file/d/1e-2s-4Ceox8jeaMF7gXSJjQhEMctlqao/view?usp=sharing) (Feb. 2024)
-  * [Certified Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://drive.google.com/file/d/1UMTr5muVf8hDNYn6e8cKnF61WHO0sR2N/view?usp=sharing) (OCT. 2023)
-  * [IBM Certified Technical Advocate v4](https://drive.google.com/file/d/17e5x89QKsVM06EXJ9HZaYtwkmQSVmHEJ/view?usp=sharing) (SEP. 2023)
-  * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (SEP. 2023)
+  * [Certified Oracle Cloud Infrastructure 2023 AI Foundations Associate](https://drive.google.com/file/d/1UMTr5muVf8hDNYn6e8cKnF61WHO0sR2N/view?usp=sharing) (Oct. 2023)
+  * [IBM Certified Technical Advocate v4](https://drive.google.com/file/d/17e5x89QKsVM06EXJ9HZaYtwkmQSVmHEJ/view?usp=sharing) (Sep. 2023)
+  * [Certified Oracle Cloud Data Management 2023 Foundations Associate](https://drive.google.com/file/d/1lCNCdzPN2yZSy554NgeuKf4T4UsTMnOC/view?usp=sharing) (Sep. 2023)
 
 ## <h2 id="Contactid"> Contact</h2>
 <strong>Social platform:</strong>
